@@ -7,6 +7,7 @@
 - We are are all going to work on this repository
 - Every student must share with me her github username and will be added a collaborator to this repo and will have to accept the invitation.
 - Every student is required to create her own branch to work on
+- Your branch must match your github username
 
 ## Steps to start this project on your laptop
 - Use `git clone https://github.com/Solvit-React/signup-page-assigment.git` to clone the project
