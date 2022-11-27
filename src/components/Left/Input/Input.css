@@ -1,0 +1,6 @@
+.input {
+    /* outline: 1px solid hsl(192deg 24% 96%); */
+    border: 2px solid hsl(192deg 24% 96%);
+    padding: 20px 10px;
+    width: 100%;
+}

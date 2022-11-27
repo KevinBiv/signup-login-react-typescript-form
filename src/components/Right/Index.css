@@ -1,0 +1,36 @@
+.right {
+    width: 50%;
+    background-color: hsl(212deg 88% 97%);
+    padding: 70px 30px 0;
+    position: relative;
+}
+
+.login-btn {
+    padding: 20px 55px;
+    font-weight: bold;
+    color: hsl(209deg 100% 55%);
+    background-color: transparent;
+    border: 2px solid hsl(209deg 100% 55%);
+    border-radius: 5px;
+    margin-top: 30px;
+    cursor: pointer;
+    margin-left: 20px;
+    animation: 300ms linear ease-in;
+}
+
+.login-btn:hover {
+    background-color: hsl(209deg 100% 55%);
+    transition: 500ms linear ease-in;
+    color: white;
+}
+
+.login-text {
+    font-weight: bold;
+}
+
+.img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+}

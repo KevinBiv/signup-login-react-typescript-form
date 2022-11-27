@@ -1,0 +1,49 @@
+.left {
+    width: 50%;
+    padding: 100px 50px;
+    /* background-color: red; */
+}
+
+.header-text {
+    margin-bottom: 100px;
+}
+
+.header-text h1 {
+    margin-bottom: 20px;
+    font-size: 48px;
+}
+
+.header-text p {
+    color: hsl(227deg 14% 74%);
+    font-weight: bold;
+}
+
+.form {
+    width: 100%;
+}
+
+.input-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.signup-btn {
+    padding: 20px 40px;
+    font-weight: bold;
+    color: white;
+    background-color: hsl(209deg 100% 55%);
+    border: 1px solid hsl(209deg 100% 55%);
+    border: 2px solid hsl(209deg 100% 55%);
+    border-radius: 5px;
+    margin-top:30px;
+    cursor: pointer; 
+}
+
+.signup-btn:hover {
+    background-color: transparent;
+    color: hsl(209deg 100% 55%);
+}
